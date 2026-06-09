@@ -1,29 +1,33 @@
-# Hi there, I'm Vikas Sharma! 👋  
+# Hi, I'm Vikas 👋
 
-## About Me  
+**NLP / AI Engineer** · 3 yrs exp · Open-source contributor
 
-I'm an **AI Engineer** specializing in **Natural Language Processing (NLP), Machine Learning, and Deep Learning**. I enjoy building intelligent systems, optimizing models, and contributing to open-source AI projects.  
+I build things at the intersection of **large language models**, **mixture-of-experts architectures**, and **multi-agent systems**. Currently working on MoE-Router — a Python library that combines MoE routing with agentic workflows.
 
-## 🚀 Achievements  
+---
 
-- 🏆 **Pull Shark Badge** – Recognized for contributions to open-source projects.  
+## 🔧 What I work on
 
-## 🔬 AI & ML Projects  
+- **MoE-Router** — routing intelligence for multi-expert, multi-agent pipelines
+- **Research** — MoE + Agents for low-resource Indian languages (targeting ACL / EMNLP)
+- **Open-source** — contributions to LangChain, LlamaIndex, CrewAI
 
-- [**flan-t5-base-samsum**](https://huggingface.co/sharmax-vikas/flan-t5-base-samsum) – Fine-tuned FLAN-T5 model for abstractive summarization.  
-- [**bert-base-banking77-pt2**](https://huggingface.co/sharmax-vikas/bert-base-banking77-pt2) – BERT model fine-tuned for banking-related text classification.  
-- [**processed-subset-bestofredditorupdates**](https://huggingface.co/datasets/sharmax-vikas/processed-subset-bestofredditorupdates) – A curated dataset of Reddit discussions for NLP tasks.  
+## 🛠 Stack
 
-## 🛠 Skills & Technologies  
+`Python` `PyTorch` `Transformers` `LangChain` `LlamaIndex` `FastAPI` `CrewAI`
 
-- **Machine Learning & Deep Learning** – TensorFlow, PyTorch, Scikit-learn  
-- **Natural Language Processing** – Transformers, Hugging Face, LLM Fine-tuning  
-- **Data Science** – Pandas, NumPy, Matplotlib, Seaborn  
-- **MLOps & Deployment** – Docker, FastAPI, AWS, Hugging Face Hub  
-- **Databases & Big Data** – SQL, MongoDB, Apache Spark  
+## 📌 Currently
 
-## 📬 Get in Touch  
+- 📦 Building [MoE-Router](https://github.com/sharmax-vikas/moe-router) (WIP)
+- 📄 Writing paper on dynamic expert selection for agentic NLP pipelines
+- 🤝 Open to roles in NLP / AI engineering — DMs open
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharmax-vikas)  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sharmax_vikas)  
+## 🔗 Links
 
-🚀 Let's collaborate and innovate with AI!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sharmax-vikas/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://x.com/sharmax_vikas)
+[![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=flat&logo=gmail)]()
+
+---
+
+Building in public · NLP · MoE · Agents · Open-source
